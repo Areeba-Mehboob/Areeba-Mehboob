@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Areeba-Mehboob
+- 👀 I’m interested in AI and Hardware Design
+- 🌱 I’m currently learning Deep learning algorithms and Image processing
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me @areebam171@gmail.com
